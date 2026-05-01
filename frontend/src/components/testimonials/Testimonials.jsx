@@ -23,19 +23,19 @@ const Testimonials = () => {
     },
     {
       id: 3,
-      name: "John Doe",
+      name: "David Wilson",
       position: "Student",
       message:
-        "This platform helped me learn so effectively. The courses are amazing and the instructors are top-notch.",
+        "I've gained valuable skills here. The course structure is simple and easy to understand.",
       image:
         "https://randomuser.me/api/portraits/men/32.jpg",
     },
     {
       id: 4,
-      name: "Jane Smith",
+      name: "Sophia Martinez",
       position: "Student",
       message:
-        "I've learned more here than in any other place. The interactive lessons and quizzes make learning enjoyable.",
+        "The learning experience is excellent. The instructors explain every topic clearly and professionally.",
       image:
         "https://randomuser.me/api/portraits/women/68.jpg",
     },
